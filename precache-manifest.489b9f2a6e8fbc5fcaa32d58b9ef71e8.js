@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "62db64ddb4cd529fc022b2b3e8065a36",
+    "revision": "cc913102a89885c8ae28d8a5d803643d",
     "url": "/index.html"
   },
   {
-    "revision": "92070da0f6bbb0d1c2a4",
+    "revision": "3c8929cc24f0c092dd6c",
     "url": "/static/css/main.05b764c6.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.c12fcd53.chunk.js"
   },
   {
-    "revision": "92070da0f6bbb0d1c2a4",
-    "url": "/static/js/main.881ef138.chunk.js"
+    "revision": "3c8929cc24f0c092dd6c",
+    "url": "/static/js/main.409e3ab6.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
@@ -58,6 +58,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "12453b272a1b8e85f6473c871c52b56d",
     "url": "/static/media/pomodoro-clock.12453b27.jpg"
+  },
+  {
+    "revision": "71398e0e50d35efb5196af677cb3f6d6",
+    "url": "/static/media/portfolio.71398e0e.jpg"
   },
   {
     "revision": "561b5f3ea21317274513ffe708e139e7",
