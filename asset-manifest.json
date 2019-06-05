@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.14de2485.chunk.css",
+    "main.js": "/static/js/main.103b027e.chunk.js",
+    "main.js.map": "/static/js/main.103b027e.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.c12fcd53.chunk.js": "/static/js/2.c12fcd53.chunk.js",
+    "static/js/2.c12fcd53.chunk.js.map": "/static/js/2.c12fcd53.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.1af1190ad74c94bbb0eb8269475cbecf.js": "/precache-manifest.1af1190ad74c94bbb0eb8269475cbecf.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.14de2485.chunk.css.map": "/static/css/main.14de2485.chunk.css.map",
+    "static/media/caesars-cipher.jpg": "/static/media/caesars-cipher.20a0cdcf.jpg",
+    "static/media/cash-register.jpg": "/static/media/cash-register.b1e68948.jpg",
+    "static/media/certone.jpg": "/static/media/certone.34cbedb1.jpg",
+    "static/media/certthree.jpg": "/static/media/certthree.a768b3a1.jpg",
+    "static/media/certtwo.jpg": "/static/media/certtwo.6d035f88.jpg",
+    "static/media/drum-machine.jpg": "/static/media/drum-machine.6d9c8aa3.jpg",
+    "static/media/javascript-calculator.jpg": "/static/media/javascript-calculator.0c33d29f.jpg",
+    "static/media/markdown-previewer.jpg": "/static/media/markdown-previewer.f75f5f9c.jpg",
+    "static/media/palindrome-checker.jpg": "/static/media/palindrome-checker.b6b425e5.jpg",
+    "static/media/pomodoro-clock.jpg": "/static/media/pomodoro-clock.12453b27.jpg",
+    "static/media/product-landing.jpg": "/static/media/product-landing.561b5f3e.jpg",
+    "static/media/random-quote-generator.jpg": "/static/media/random-quote-generator.fb2b2086.jpg",
+    "static/media/roman-numeral-converter.jpg": "/static/media/roman-numeral-converter.13a1df1b.jpg",
+    "static/media/telephone-number-validator.jpg": "/static/media/telephone-number-validator.7bb93bcd.jpg",
+    "static/media/tribute.jpg": "/static/media/tribute.15df7e0d.jpg"
+  }
+}
